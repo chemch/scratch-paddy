@@ -1,4 +1,4 @@
-package com.practice;
+package com.hotel;
 
 import java.util.ArrayList;
 import java.util.HashMap;
