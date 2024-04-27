@@ -15,7 +15,8 @@ public class App {
 		SortList sList = new SortList();
 		 
         // Adds data to the list
-        sList.addNode(8);
+        sList.addNode(1);
+        sList.addNode(9);
         sList.addNode(3);
         sList.addNode(7);
         sList.addNode(2);
