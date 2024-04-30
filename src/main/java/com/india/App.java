@@ -1,6 +1,6 @@
 package com.india;
 
-public class Application {
+public class App {
 
 	public static void main(String[] args) {
 		System.out.println("3.2 - design stack w/ push, pop and min\n");
