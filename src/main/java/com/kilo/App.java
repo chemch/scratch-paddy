@@ -1,6 +1,6 @@
 package com.kilo;
 
-public class Applicaiton {
+public class App {
 	
 	static void printBinary(long n)
 	{
