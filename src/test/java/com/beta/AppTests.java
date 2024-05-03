@@ -3,6 +3,8 @@ package com.beta;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import com.bravo.Person;
+
 
 public class AppTests {
 	@Test

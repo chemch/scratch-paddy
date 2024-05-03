@@ -1,4 +1,4 @@
-package com.alpha;
+package com.alfa;
 
 public class App {
 

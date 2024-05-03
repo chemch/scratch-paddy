@@ -1,4 +1,4 @@
-package com.beta;
+package com.bravo;
 
 public class Person {
 	// attributes

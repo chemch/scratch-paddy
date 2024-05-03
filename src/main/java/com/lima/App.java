@@ -1,4 +1,4 @@
-package com.Lima;
+package com.lima;
 
 public class App {
 	

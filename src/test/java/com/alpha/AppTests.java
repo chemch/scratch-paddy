@@ -3,6 +3,8 @@ package com.alpha;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+import com.alfa.Car;
+
 public class AppTests {
 
 	@Test

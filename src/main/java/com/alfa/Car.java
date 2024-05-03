@@ -1,4 +1,4 @@
-package com.alpha;
+package com.alfa;
 
 public class Car {
 	final static String make = "Chevy";
